@@ -1,4 +1,4 @@
-# Pig Game 
+# PIG GAME
 **A simple dice game**
 
 ### GAME RULES
