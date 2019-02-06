@@ -1,7 +1,7 @@
 # Pig-Game
 A simple dice game
 
-# GAME RULES
+## GAME RULES
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score
 - If the player rolls a 1, all his ROUND score is lost. After that, it's the next player's turn
