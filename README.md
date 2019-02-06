@@ -8,4 +8,4 @@ A simple dice game
 - The player can choose to 'HOLD', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-[PLAY THE GAME](https://aanndch.github.io/Pig-Game)
+[**PLAY THE GAME**](https://aanndch.github.io/Pig-Game)
