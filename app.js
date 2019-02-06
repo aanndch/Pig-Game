@@ -52,7 +52,7 @@ function roll() {
         document.querySelector('#current-' + activePlayer).textContent = roundScore;
 
         // HOLD to WIN
-        if (roundScore + scores[activePlayer] >= 20) {
+        if (roundScore + scores[activePlayer] >= 100) {
             document.querySelector('.hold2win').textContent = 'HOLD to WIN!';
         }
 
