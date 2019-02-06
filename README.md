@@ -1,5 +1,5 @@
 # Pig Game 
-A simple dice game
+**A simple dice game**
 
 ### GAME RULES
 - The game has 2 players, playing in rounds
