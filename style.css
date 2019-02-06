@@ -72,7 +72,7 @@ body {
 }
 
 .active { background-color: #f7f7f7; }
-.active .player-name { font-weight: 300; }
+.active .player-name { font-weight: 800; }
 
 .active .player-name::after {
     content: "\2022";
@@ -120,7 +120,7 @@ button {
     transition: background-color 0.3s, color 0.3s;
 }
 
-button:hover { font-weight: 600; }
+button:hover { font-weight: 1000; }
 button:hover i { margin-right: 20px; }
 
 button:focus {
@@ -152,4 +152,5 @@ i {
 }
 
 .winner { background-color: #f7f7f7; }
-.winner .player-name { font-weight: 300; color: #EB4D4D; }
+.winner .player-name { font-weight: 800; }
+.winner .player-score { font-weight: 800; }
